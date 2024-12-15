@@ -11,6 +11,11 @@
 - Calculates user's BMI
 - Propose category (underwight/normal weight/overweight) based on result
 - Recommend some health tips fro having normal BMI
+
+## Structure📈:
+- public: style.css - CSS design for website
+- views: index.html - Page for entering data
+- server.js - JavaScript code for calculating and displaying results
   
 
 
